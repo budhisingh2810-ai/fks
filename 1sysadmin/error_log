@@ -1,0 +1,70 @@
+[20-Apr-2026 20:02:32 UTC] PHP Warning:  file_get_contents(../settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 3
+[20-Apr-2026 20:02:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 113
+[20-Apr-2026 20:02:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 113
+[20-Apr-2026 20:02:55 UTC] PHP Warning:  file_get_contents(../settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 3
+[20-Apr-2026 20:02:55 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 7
+[20-Apr-2026 20:02:55 UTC] PHP Warning:  file_get_contents(https://buyhatke.com/amazon-smk-stellar-sports-stage-full-face-helmet-with-pinlock-fited-ma262-m-price-in-india-63-60330207): Failed to open stream: no suitable wrapper could be found in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 7
+[20-Apr-2026 20:02:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 90
+[20-Apr-2026 20:02:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 92
+[20-Apr-2026 20:02:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 93
+[20-Apr-2026 20:02:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 96
+[20-Apr-2026 20:02:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 97
+[20-Apr-2026 20:02:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 113
+[20-Apr-2026 20:02:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 113
+[20-Apr-2026 20:02:59 UTC] PHP Warning:  file_get_contents(../settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 3
+[20-Apr-2026 20:02:59 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 7
+[20-Apr-2026 20:02:59 UTC] PHP Warning:  file_get_contents(https://buyhatke.com/amazon-smk-stellar-sports-stage-full-face-helmet-with-pinlock-fited-ma262-m-price-in-india-63-60330207): Failed to open stream: no suitable wrapper could be found in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 7
+[20-Apr-2026 20:02:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 90
+[20-Apr-2026 20:02:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 92
+[20-Apr-2026 20:02:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 93
+[20-Apr-2026 20:02:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 96
+[20-Apr-2026 20:02:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 97
+[20-Apr-2026 20:02:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 113
+[20-Apr-2026 20:02:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 113
+[20-Apr-2026 20:14:03 UTC] PHP Warning:  file_get_contents(../settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 3
+[20-Apr-2026 20:14:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 95
+[20-Apr-2026 20:14:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 97
+[20-Apr-2026 20:14:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 98
+[20-Apr-2026 20:14:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 101
+[20-Apr-2026 20:14:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 102
+[20-Apr-2026 20:14:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 111
+[20-Apr-2026 20:14:03 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 111
+[20-Apr-2026 20:14:10 UTC] PHP Warning:  file_get_contents(../settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/1sysadmin/index.php on line 4
+[20-Apr-2026 20:14:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mydreamgirl/public_html/fk/offer/1sysadmin/index.php on line 60
+[20-Apr-2026 20:14:10 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mydreamgirl/public_html/fk/offer/1sysadmin/index.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/mydreamgirl/public_html/fk/offer/1sysadmin/index.php on line 60
+[20-Apr-2026 20:14:11 UTC] PHP Warning:  file_get_contents(../settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 3
+[20-Apr-2026 20:14:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 111
+[20-Apr-2026 20:14:11 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 111
+[20-Apr-2026 20:14:17 UTC] PHP Warning:  file_get_contents(../settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 3
+[20-Apr-2026 20:14:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 95
+[20-Apr-2026 20:14:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 97
+[20-Apr-2026 20:14:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 98
+[20-Apr-2026 20:14:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 101
+[20-Apr-2026 20:14:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 102
+[20-Apr-2026 20:14:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 111
+[20-Apr-2026 20:14:17 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 111
+[20-Apr-2026 20:14:20 UTC] PHP Warning:  file_get_contents(../settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 3
+[20-Apr-2026 20:14:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 95
+[20-Apr-2026 20:14:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 97
+[20-Apr-2026 20:14:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 98
+[20-Apr-2026 20:14:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 101
+[20-Apr-2026 20:14:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 102
+[20-Apr-2026 20:14:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 111
+[20-Apr-2026 20:14:20 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 111
+[20-Apr-2026 20:14:21 UTC] PHP Warning:  file_get_contents(../settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 3
+[20-Apr-2026 20:14:21 UTC] PHP Warning:  file_put_contents(../settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/1sysadmin/manage-products.php on line 51

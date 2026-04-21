@@ -1,0 +1,8 @@
+[20-Apr-2026 20:11:59 UTC] PHP Warning:  file_get_contents(settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/index.php on line 2
+[20-Apr-2026 20:12:30 UTC] PHP Warning:  file_get_contents(settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/index.php on line 2
+[20-Apr-2026 20:12:49 UTC] PHP Warning:  file_get_contents(settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/index.php on line 2
+[20-Apr-2026 20:12:57 UTC] PHP Warning:  file_get_contents(settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/index.php on line 2
+[20-Apr-2026 20:14:38 UTC] PHP Warning:  file_get_contents(settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/index.php on line 2
+[20-Apr-2026 20:14:50 UTC] PHP Warning:  file_get_contents(settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/index.php on line 2
+[20-Apr-2026 20:14:52 UTC] PHP Warning:  file_get_contents(settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/index.php on line 2
+[20-Apr-2026 20:14:53 UTC] PHP Warning:  file_get_contents(settings.json): Failed to open stream: Permission denied in /home/mydreamgirl/public_html/fk/offer/index.php on line 2
